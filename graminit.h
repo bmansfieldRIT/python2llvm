@@ -92,7 +92,8 @@ enum Token {
     comp_if = 339,
     encoding_decl = 340,
     yield_expr = 341,
-    yield_arg = 342
-}
+    yield_arg = 342,
+    eof_tok = 343
+};
 
 #endif
