@@ -1,8 +1,6 @@
 # python2llvm
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
-
-![LLVM Logo](https://llvm.org/img/LLVM-Logo-Derivative-1.png)
+![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png) ![LLVM Logo](https://llvm.org/img/LLVM-Logo-Derivative-1.png)
 
 #### Introduction:
 **LLVM** is a compiler project that can output extremely optimized machine code, with a simple intermediate representation (LLVM IR) that allows developers to create new optimizations passes.
